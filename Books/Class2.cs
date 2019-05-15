@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace Books
 {
-    class Author
+    class models
     {
-        public string nameAuthor { get; set; }
-        public string nationality { get; set; }
+        public string namemodel{ get; set; }
+        public string Year { get; set; }
     }
 }
