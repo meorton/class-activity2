@@ -119,8 +119,6 @@ Routes to Istio Egress Gateway (based on ServiceEntry/VirtualService)
     ↓
 Egress Gateway LoadBalancer Service (34.123.45.67)
     ↓
-ActiveGateway (routes back through Telus infrastructure)
-    ↓
 ECO SIT (receives call from whitelisted IP: 34.123.45.67)
 ```
 
